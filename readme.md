@@ -1,15 +1,22 @@
-# HTIA: An Intelligent Mobile Prediction System
+# HTIA: An Intelligent Mobile Prediction System with Incidence Attention
 
-HTIA is an intelligent mobile prediction system that utilizes deep learning techniques to accurately predict individual mobility patterns. The prediction of individual mobility has been shown to hold significant commercial and social value in traffic planning and location advertising.![fig1](https://github.com/nmhjklnm/HTIA-mobile-predict/blob/main/assets/model.png)
+HTIA is an intelligent mobile prediction system that utilizes advanced deep learning techniques to accurately predict individual mobility patterns. The system is built around a novel sequence-to-sequence (seq2seq) model with mini-batch hierarchical temporal incidence attention (HTIA) and a unique Incidence Attention (IA) mechanism. This combination allows the model to capture both long-term and short-term dependencies in individual mobility patterns, leading to highly accurate predictions. 
+
+![fig1](https://github.com/nmhjklnm/HTIA-mobile-predict/blob/main/assets/framework.png)
+
+![fig1](https://github.com/nmhjklnm/HTIA-mobile-predict/blob/main/assets/model.png)
 
 ## Features
 
 The HTIA system currently supports the following features:
 
 - **Advanced Deep Learning Model**: HTIA incorporates a novel sequence-to-sequence (seq2seq) model with mini-batch hierarchical temporal incidence attention (HTIA) to capture long-term and short-term dependencies in individual mobility patterns.
-- **Improved Prediction Accuracy**: Our approach surpasses state-of-the-art competing schemes, reducing mean relative error by more than 70.8%, 60.8%, and 69.9% respectively, as demonstrated in extensive experiments conducted on three public datasets exhibiting different degrees of uncertainty.
-- **Efficiency and Interpretability**: We enhance the efficiency of the model by employing sequence padding and incorporating it into HTIA, while maintaining its interpretability.
 
+- **Incidence Attention Mechanism**: Our model introduces a unique Incidence Attention (IA) mechanism that effectively handles heterogeneity and padding issues within long short-term data, leading to more accurate attention distribution vectors.
+
+- **Improved Prediction Accuracy**: Our approach surpasses state-of-the-art competing schemes, reducing mean relative error by more than 70.8%, 60.8%, and 69.9% respectively, as demonstrated in extensive experiments conducted on three public datasets exhibiting different degrees of uncertainty.
+
+- **Efficiency and Interpretability**: We enhance the efficiency of the model by employing sequence padding and incorporating it into HTIA, while maintaining its interpretability.
 ## supplymentary material  manual
 
 ---
