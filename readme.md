@@ -1,6 +1,6 @@
 # HTIA: An Intelligent Mobile Prediction System
 
-HTIA is an intelligent mobile prediction system that utilizes deep learning techniques to accurately predict individual mobility patterns. The prediction of individual mobility has been shown to hold significant commercial and social value in traffic planning and location advertising.![fig2](https://nmhjklnm.oss-cn-beijing.aliyuncs.com/article-img/img/fig2.svg)
+HTIA is an intelligent mobile prediction system that utilizes deep learning techniques to accurately predict individual mobility patterns. The prediction of individual mobility has been shown to hold significant commercial and social value in traffic planning and location advertising.![fig2](/asset/model.pdf)
 
 ## Features
 
